@@ -1,9 +1,19 @@
-# Base de Datos de Chambeo
+# Chambeo Database
 
-Implementación SQL (base de datos relacional) con PostgreSQL y ejemplos NoSQL con MongoDB.
+Relational (PostgreSQL) and non relational (MongoDB) databases for the imaginary company "Chambeo".
 
 ## PostgreSQL
-Migración y rollback de la base de datos.
+
+Migration and rollback of the database
 
 ## MongoDB
-Ejemplo de validaciones e inserción de datos.
+
+Insertaion and validation of the database.
+
+---
+
+### Relational Database diagram
+
+![chambeo diagram](./pic/chambeo.png)
+
+[Click here to check the database diagram](https://drive.google.com/file/d/1bJgt5j0hS6LFtcrCtaSD59P92hO_I_6P/view?usp=sharing)
